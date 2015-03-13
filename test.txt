@@ -1,2 +1,3 @@
 This is the first line of my amazing file !
 
+Then, I add a second line on my repository
